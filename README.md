@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm KUSHAGRA GUPTA</h1>
+
+<h3 align="center">Web-Developer | Competitive Programmer | Backend Developer </h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagragupta21&label=Profile%20views&color=0e75b6&style=flat" alt="kushagragupta21" /> </p>
 - 💬 Ask me about **NodeJS, React, Data Structures and Algorithms**
 
