@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm KUSHAGRA GUPTA</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagragupta21&label=Profile%20views&color=0e75b6&style=flat" alt="kushagragupta21" /> </p>
+- 💬 Ask me about **NodeJS, React, Data Structures and Algorithms**
 
+- 📫 How to reach me **student.kushagra2000@gmail.com**
+- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushagragupta21" alt="kushagragupta21" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kushagr72740918" target="blank"><img src="https://img.shields.io/twitter/follow/kushagr72740918?logo=twitter&style=for-the-badge" alt="kushagr72740918" /></a> </p>
