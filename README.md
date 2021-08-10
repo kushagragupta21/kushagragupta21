@@ -18,13 +18,12 @@
 <a href="https://twitter.com/kushagr72740918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kushagr72740918" height="30" width="40" /></a>
  </span>
 </p>
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushagragupta21&show_icons=true&locale=en&layout=compact" alt="kushagragupta21" /></p>
-<span>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kushagragupta21&show_icons=true&locale=en" alt="kushagragupta21" /></p>
-</span>
- </div>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushagragupta21&" alt="kushagragupta21" /></p>
+
+<p align="center">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushagragupta21&show_icons=true&locale=en&layout=compact" alt="kushagragupta21" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kushagragupta21&show_icons=true&locale=en" alt="kushagragupta21" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushagragupta21&" alt="kushagragupta21" />
+ </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushagragupta21" alt="kushagragupta21" /></a> </p>
 
